@@ -2,7 +2,7 @@
   "name": "codesource/gentelella-pack",
   "description": "Free Bootstrap 3 Admin Template package",
   "version": "1.4.0",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
