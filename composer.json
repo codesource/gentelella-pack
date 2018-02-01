@@ -2,7 +2,8 @@
   "name": "codesource/gentelella-pack",
   "description": "Free Bootstrap 3 Admin Template package",
   "version": "1.4.0",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "license": "MIT",
   "authors": [
     {
@@ -15,7 +16,7 @@
       "type": "package",
       "package": {
         "name": "abritinthebay/datejs",
-        "version": "1.0.0-rc3",
+        "version": "1.0.0",
         "source": {
           "url": "git@github.com:abritinthebay/datejs.git",
           "type": "git",
@@ -181,7 +182,7 @@
     }
   ],
   "require": {
-    "abritinthebay/datejs": "1.0.0-rc3",
+    "abritinthebay/datejs": "1.0.0",
     "bernii/gauge.js": "1.2.1",
     "components/jquery": "~2.2.0",
     "dangrossman/bootstrap-daterangepicker": "2.1.24",
