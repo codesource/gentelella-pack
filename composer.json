@@ -14,6 +14,162 @@
     {
       "type": "package",
       "package": {
+        "name": "abritinthebay/datejs",
+        "version": "1.0.0",
+        "source": {
+          "url": "git@github.com:abritinthebay/datejs.git",
+          "type": "git",
+          "reference": "a173b13"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "bernii/gauge.js",
+        "version": "1.2.1",
+        "source": {
+          "url": "git@github.com:bernii/gauge.js.git",
+          "type": "git",
+          "reference": "7ae09f4"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "dangrossman/bootstrap-daterangepicker",
+        "version": "2.1.24",
+        "source": {
+          "url": "git@github.com:dangrossman/bootstrap-daterangepicker.git",
+          "type": "git",
+          "reference": "249b719"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "darkskyapp/skycons",
+        "version": "0.0.0",
+        "source": {
+          "url": "git@github.com:darkskyapp/skycons.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "dmitrybaranovskiy/raphael",
+        "version": "2.2.0",
+        "source": {
+          "url": "git@github.com:DmitryBaranovskiy/raphael.git",
+          "type": "git",
+          "reference": "a5cd61a"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "emmerich/flot-orderBars",
+        "version": "1.0.0",
+        "source": {
+          "url": "git@github.com:emmerich/flot-orderBars.git",
+          "type": "git",
+          "reference": "0ea6ff6"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "flot/flot",
+        "version": "0.8.3",
+        "source": {
+          "url": "git@github.com:flot/flot.git",
+          "type": "git",
+          "reference": "453b017"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "ftlabs/fastclick",
+        "version": "1.0.6",
+        "source": {
+          "url": "git@github.com:ftlabs/fastclick.git",
+          "type": "git",
+          "reference": "9977a91"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "johnpozy/flot-spline",
+        "version": "0.0.1",
+        "source": {
+          "url": "git@github.com:johnpozy/flot-spline.git",
+          "type": "git",
+          "reference": "1a26938"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "michaelzinsmaier/flot-curvedlines",
+        "version": "1.1.1",
+        "source": {
+          "url": "git@github.com:MichaelZinsmaier/CurvedLines.git",
+          "type": "git",
+          "reference": "ec39841"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "minddust/bootstrap-progressbar",
+        "version": "0.9.0",
+        "source": {
+          "url": "git@github.com:minddust/bootstrap-progressbar.git",
+          "type": "git",
+          "reference": "e7ac269"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "morrisjs/morris.js",
+        "version": "0.5.0",
+        "source": {
+          "url": "git@github.com:morrisjs/morris.js.git",
+          "type": "git",
+          "reference": "d31c072"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "rkgrep/jquery.sparkline",
+        "version": "2.1.3",
+        "source": {
+          "url": "git@github.com:rkgrep/jquery.sparkline.git",
+          "type": "git",
+          "reference": "47b1f5a"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
         "name": "rstacruz/nprogress",
         "version": "0.2.0",
         "source": {
@@ -25,9 +181,25 @@
     }
   ],
   "require": {
+    "abritinthebay/datejs": "1.0.0",
+    "bernii/gauge.js": "1.2.1",
+    "components/jquery": "~2.2.0",
+    "dangrossman/bootstrap-daterangepicker": "2.1.24",
+    "darkskyapp/skycons": "0.0.0",
+    "dmitrybaranovskiy/raphael": "2.2.0",
     "drmonty/animate.css": "~3.5.0",
+    "emmerich/flot-orderBars": "1.0.0",
+    "flot/flot": "0.8.3",
     "fortawesome/font-awesome": "~4.7.0",
-    "twbs/bootstrap": "~3.3.0",
-    "rstacruz/nprogress": "0.2.0"
+    "ftlabs/fastclick": "1.0.6",
+    "johnpozy/flot-spline": "0.0.1",
+    "michaelzinsmaier/flot-curvedlines": "1.1.1",
+    "minddust/bootstrap-progressbar": "0.9.0",
+    "moment/moment": "~2.13.0",
+    "morrisjs/morris.js": "0.5.0",
+    "nnnick/chartjs": "~2.1.0",
+    "rkgrep/jquery.sparkline": "2.1.3",
+    "rstacruz/nprogress": "0.2.0",
+    "twbs/bootstrap": "~3.3.0"
   }
 }
