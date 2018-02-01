@@ -15,7 +15,7 @@
       "type": "package",
       "package": {
         "name": "abritinthebay/datejs",
-        "version": "1.0.0",
+        "version": "1.0.0-rc3",
         "source": {
           "url": "git@github.com:abritinthebay/datejs.git",
           "type": "git",
@@ -181,7 +181,7 @@
     }
   ],
   "require": {
-    "abritinthebay/datejs": "1.0.0@dev",
+    "abritinthebay/datejs": "1.0.0-rc3",
     "bernii/gauge.js": "1.2.1",
     "components/jquery": "~2.2.0",
     "dangrossman/bootstrap-daterangepicker": "2.1.24",
