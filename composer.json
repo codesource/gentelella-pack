@@ -181,7 +181,7 @@
     }
   ],
   "require": {
-    "abritinthebay/datejs": "1.0.0",
+    "abritinthebay/datejs": "1.0.0@dev",
     "bernii/gauge.js": "1.2.1",
     "components/jquery": "~2.2.0",
     "dangrossman/bootstrap-daterangepicker": "2.1.24",
